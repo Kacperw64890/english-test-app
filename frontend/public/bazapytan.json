@@ -1,0 +1,353 @@
+[
+    {
+      "id": 1,
+      "question": "Choose the correct sentence: He doesn't like apples.",
+      "options": {
+        "A": "He don't like apples.",
+        "B": "He doesn't likes apples.",
+        "C": "He doesn't like apples.",
+        "D": "He don't likes apples."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "What is the synonym of 'happy'?",
+      "options": {
+        "A": "sad",
+        "B": "joyful",
+        "C": "angry",
+        "D": "tired"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Fill in the blank: 'I ____ to the store yesterday.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "went",
+        "D": "going"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Which word is a noun?",
+      "options": {
+        "A": "quickly",
+        "B": "run",
+        "C": "happiness",
+        "D": "blue"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Select the antonym of 'big'.",
+      "options": {
+        "A": "large",
+        "B": "small",
+        "C": "huge",
+        "D": "gigantic"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence is in the future tense?",
+      "options": {
+        "A": "She walked to school.",
+        "B": "She is walking to school.",
+        "C": "She will walk to school.",
+        "D": "She walks to school."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct comparative form of 'good'.",
+      "options": {
+        "A": "gooder",
+        "B": "more good",
+        "C": "better",
+        "D": "best"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Identify the adverb in the sentence: 'He ran quickly to catch the bus.'",
+      "options": {
+        "A": "ran",
+        "B": "quickly",
+        "C": "catch",
+        "D": "bus"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Complete the sentence: 'She is very ____ in mathematics.'",
+      "options": {
+        "A": "interest",
+        "B": "interesting",
+        "C": "interested",
+        "D": "interests"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "What is the correct contraction for 'do not'?",
+      "options": {
+        "A": "don't",
+        "B": "does't",
+        "C": "dont",
+        "D": "do'nt"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "Fill in the blank: 'They ____ playing soccer right now.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses correct punctuation?",
+      "options": {
+        "A": "Lets eat, grandma!",
+        "B": "Let's eat grandma!",
+        "C": "Let's eat, grandma!",
+        "D": "Lets, eat, grandma!"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "What is the past participle of 'write'?",
+      "options": {
+        "A": "wrote",
+        "B": "written",
+        "C": "writing",
+        "D": "writed"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct article: '____ university is a great place to study.'",
+      "options": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": "No article"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Select the synonym for 'difficult'.",
+      "options": {
+        "A": "easy",
+        "B": "hard",
+        "C": "simple",
+        "D": "smooth"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "Which sentence is written in the passive voice?",
+      "options": {
+        "A": "The chef cooks the meal.",
+        "B": "The meal is cooked by the chef.",
+        "C": "The chef is cooking the meal.",
+        "D": "The meal cooks itself."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "Fill in the blank: 'I have been living in this city ____ 2010.'",
+      "options": {
+        "A": "for",
+        "B": "since",
+        "C": "during",
+        "D": "from"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is an interjection?",
+      "options": {
+        "A": "quickly",
+        "B": "oh",
+        "C": "run",
+        "D": "blue"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "There going to the park.",
+        "B": "They're going to the park.",
+        "C": "Their going to the park.",
+        "D": "Thier going to the park."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Select the best word to complete: 'He is known for his ____ behavior.'",
+      "options": {
+        "A": "rude",
+        "B": "rudely",
+        "C": "rudeness",
+        "D": "rudity"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "What is the plural form of 'mouse'?",
+      "options": {
+        "A": "mouses",
+        "B": "mice",
+        "C": "mouse",
+        "D": "mices"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct possessive form: 'This is ____ car.'",
+      "options": {
+        "A": "John",
+        "B": "Johns",
+        "C": "John's",
+        "D": "Johns'"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "Which word is a verb in the sentence: 'The dog barks loudly.'",
+      "options": {
+        "A": "dog",
+        "B": "barks",
+        "C": "loudly",
+        "D": "the"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Select the correct preposition: 'He arrived ____ the airport on time.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "to"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "I have less apples than you.",
+        "B": "I have fewer apples than you.",
+        "C": "I have little apples than you.",
+        "D": "I have few apples than you."
+      },
+      "answer": "B"
+    },
+    { "id": 26, "question": "Choose the correct sentence: He doesn't like apples.", "options": { "A": "He don't like apples.", "B": "He doesn't likes apples.", "C": "He doesn't like apples.", "D": "He don't likes apples." }, "answer": "C" },
+    { "id": 27, "question": "What is the synonym of 'happy'?", "options": { "A": "sad", "B": "joyful", "C": "angry", "D": "tired" }, "answer": "B" },
+    { "id": 28, "question": "Fill in the blank: 'I ____ to the store yesterday.'", "options": { "A": "go", "B": "goes", "C": "went", "D": "going" }, "answer": "C" },
+    { "id": 29, "question": "Which word is a noun?", "options": { "A": "quickly", "B": "run", "C": "happiness", "D": "blue" }, "answer": "C" },
+    { "id": 30, "question": "Select the antonym of 'big'.", "options": { "A": "large", "B": "small", "C": "huge", "D": "gigantic" }, "answer": "B" },
+    { "id": 31, "question": "Which sentence is in the future tense?", "options": { "A": "She walked to school.", "B": "She is walking to school.", "C": "She will walk to school.", "D": "She walks to school." }, "answer": "C" },
+    { "id": 32, "question": "Choose the correct comparative form of 'good'.", "options": { "A": "gooder", "B": "more good", "C": "better", "D": "best" }, "answer": "C" },
+    { "id": 33, "question": "Identify the adverb in the sentence: 'He ran quickly to catch the bus.'", "options": { "A": "ran", "B": "quickly", "C": "catch", "D": "bus" }, "answer": "B" },
+    { "id": 34, "question": "Complete the sentence: 'She is very ____ in mathematics.'", "options": { "A": "interest", "B": "interesting", "C": "interested", "D": "interests" }, "answer": "C" },
+    { "id": 35, "question": "What is the correct contraction for 'do not'?", "options": { "A": "don't", "B": "does't", "C": "dont", "D": "do'nt" }, "answer": "A" },
+    { "id": 36, "question": "Fill in the blank: 'They ____ playing soccer right now.'", "options": { "A": "is", "B": "are", "C": "were", "D": "be" }, "answer": "B" },
+    { "id": 37, "question": "Which sentence uses correct punctuation?", "options": { "A": "Lets eat, grandma!", "B": "Let's eat grandma!", "C": "Let's eat, grandma!", "D": "Lets, eat, grandma!" }, "answer": "C" },
+    { "id": 38, "question": "What is the past participle of 'write'?", "options": { "A": "wrote", "B": "written", "C": "writing", "D": "writed" }, "answer": "B" },
+    { "id": 39, "question": "Choose the correct article: '____ university is a great place to study.'", "options": { "A": "A", "B": "An", "C": "The", "D": "No article" }, "answer": "B" },
+    { "id": 40, "question": "Select the synonym for 'difficult'.", "options": { "A": "easy", "B": "hard", "C": "simple", "D": "smooth" }, "answer": "B" },
+    { "id": 41, "question": "Which sentence is written in the passive voice?", "options": { "A": "The chef cooks the meal.", "B": "The meal is cooked by the chef.", "C": "The chef is cooking the meal.", "D": "The meal cooks itself." }, "answer": "B" },
+    { "id": 42, "question": "Fill in the blank: 'I have been living in this city ____ 2010.'", "options": { "A": "for", "B": "since", "C": "during", "D": "from" }, "answer": "B" },
+    { "id": 43, "question": "Which of the following is an interjection?", "options": { "A": "quickly", "B": "oh", "C": "run", "D": "blue" }, "answer": "B" },
+    { "id": 44, "question": "Choose the correct sentence:", "options": { "A": "There going to the park.", "B": "They're going to the park.", "C": "Their going to the park.", "D": "Thier going to the park." }, "answer": "B" },
+    { "id": 45, "question": "Select the best word to complete: 'He is known for his ____ behavior.'", "options": { "A": "rude", "B": "rudely", "C": "rudeness", "D": "rudity" }, "answer": "C" },
+    { "id": 46, "question": "What is the plural form of 'mouse'?", "options": { "A": "mouses", "B": "mice", "C": "mouse", "D": "mices" }, "answer": "B" },
+    { "id": 47, "question": "Choose the correct possessive form: 'This is ____ car.'", "options": { "A": "John", "B": "Johns", "C": "John's", "D": "Johns'" }, "answer": "C" },
+    { "id": 48, "question": "Which word is a verb in the sentence: 'The dog barks loudly.'", "options": { "A": "dog", "B": "barks", "C": "loudly", "D": "the" }, "answer": "B" },
+    { "id": 49, "question": "Select the correct preposition: 'He arrived ____ the airport on time.'", "options": { "A": "at", "B": "in", "C": "on", "D": "to" }, "answer": "A" },
+    { "id": 50, "question": "Which sentence is correct?", "options": { "A": "I have less apples than you.", "B": "I have fewer apples than you.", "C": "I have little apples than you.", "D": "I have few apples than you." }, "answer": "B" },
+    { "id": 51, "question": "Choose the correct sentence: He doesn't like apples.", "options": { "A": "He don't like apples.", "B": "He doesn't likes apples.", "C": "He doesn't like apples.", "D": "He don't likes apples." }, "answer": "C" },
+    { "id": 52, "question": "What is the synonym of 'happy'?", "options": { "A": "sad", "B": "joyful", "C": "angry", "D": "tired" }, "answer": "B" },
+    { "id": 53, "question": "Fill in the blank: 'I ____ to the store yesterday.'", "options": { "A": "go", "B": "goes", "C": "went", "D": "going" }, "answer": "C" },
+    { "id": 54, "question": "Which word is a noun?", "options": { "A": "quickly", "B": "run", "C": "happiness", "D": "blue" }, "answer": "C" },
+    { "id": 55, "question": "Select the antonym of 'big'.", "options": { "A": "large", "B": "small", "C": "huge", "D": "gigantic" }, "answer": "B" },
+    { "id": 56, "question": "Which sentence is in the future tense?", "options": { "A": "She walked to school.", "B": "She is walking to school.", "C": "She will walk to school.", "D": "She walks to school." }, "answer": "C" },
+    { "id": 57, "question": "Choose the correct comparative form of 'good'.", "options": { "A": "gooder", "B": "more good", "C": "better", "D": "best" }, "answer": "C" },
+    { "id": 58, "question": "Identify the adverb in the sentence: 'He ran quickly to catch the bus.'", "options": { "A": "ran", "B": "quickly", "C": "catch", "D": "bus" }, "answer": "B" },
+    { "id": 59, "question": "Complete the sentence: 'She is very ____ in mathematics.'", "options": { "A": "interest", "B": "interesting", "C": "interested", "D": "interests" }, "answer": "C" },
+    { "id": 60, "question": "What is the correct contraction for 'do not'?", "options": { "A": "don't", "B": "does't", "C": "dont", "D": "do'nt" }, "answer": "A" },
+    { "id": 61, "question": "Fill in the blank: 'They ____ playing soccer right now.'", "options": { "A": "is", "B": "are", "C": "were", "D": "be" }, "answer": "B" },
+    { "id": 62, "question": "Which sentence uses correct punctuation?", "options": { "A": "Lets eat, grandma!", "B": "Let's eat grandma!", "C": "Let's eat, grandma!", "D": "Lets, eat, grandma!" }, "answer": "C" },
+    { "id": 63, "question": "What is the past participle of 'write'?", "options": { "A": "wrote", "B": "written", "C": "writing", "D": "writed" }, "answer": "B" },
+    { "id": 64, "question": "Choose the correct article: '____ university is a great place to study.'", "options": { "A": "A", "B": "An", "C": "The", "D": "No article" }, "answer": "B" },
+    { "id": 65, "question": "Select the synonym for 'difficult'.", "options": { "A": "easy", "B": "hard", "C": "simple", "D": "smooth" }, "answer": "B" },
+    { "id": 66, "question": "Which sentence is written in the passive voice?", "options": { "A": "The chef cooks the meal.", "B": "The meal is cooked by the chef.", "C": "The chef is cooking the meal.", "D": "The meal cooks itself." }, "answer": "B" },
+    { "id": 67, "question": "Fill in the blank: 'I have been living in this city ____ 2010.'", "options": { "A": "for", "B": "since", "C": "during", "D": "from" }, "answer": "B" },
+    { "id": 68, "question": "Which of the following is an interjection?", "options": { "A": "quickly", "B": "oh", "C": "run", "D": "blue" }, "answer": "B" },
+    { "id": 69, "question": "Choose the correct sentence:", "options": { "A": "There going to the park.", "B": "They're going to the park.", "C": "Their going to the park.", "D": "Thier going to the park." }, "answer": "B" },
+    { "id": 70, "question": "Select the best word to complete: 'He is known for his ____ behavior.'", "options": { "A": "rude", "B": "rudely", "C": "rudeness", "D": "rudity" }, "answer": "C" },
+    { "id": 71, "question": "What is the plural form of 'mouse'?", "options": { "A": "mouses", "B": "mice", "C": "mouse", "D": "mices" }, "answer": "B" },
+    { "id": 72, "question": "Choose the correct possessive form: 'This is ____ car.'", "options": { "A": "John", "B": "Johns", "C": "John's", "D": "Johns'" }, "answer": "C" },
+    { "id": 73, "question": "Which word is a verb in the sentence: 'The dog barks loudly.'", "options": { "A": "dog", "B": "barks", "C": "loudly", "D": "the" }, "answer": "B" },
+    { "id": 74, "question": "Select the correct preposition: 'He arrived ____ the airport on time.'", "options": { "A": "at", "B": "in", "C": "on", "D": "to" }, "answer": "A" },
+    { "id": 75, "question": "Which sentence is correct?", "options": { "A": "I have less apples than you.", "B": "I have fewer apples than you.", "C": "I have little apples than you.", "D": "I have few apples than you." }, "answer": "B" },
+    { "id": 76, "question": "Choose the correct sentence: He doesn't like apples.", "options": { "A": "He don't like apples.", "B": "He doesn't likes apples.", "C": "He doesn't like apples.", "D": "He don't likes apples." }, "answer": "C" },
+    { "id": 77, "question": "What is the synonym of 'happy'?", "options": { "A": "sad", "B": "joyful", "C": "angry", "D": "tired" }, "answer": "B" },
+    { "id": 78, "question": "Fill in the blank: 'I ____ to the store yesterday.'", "options": { "A": "go", "B": "goes", "C": "went", "D": "going" }, "answer": "C" },
+    { "id": 79, "question": "Which word is a noun?", "options": { "A": "quickly", "B": "run", "C": "happiness", "D": "blue" }, "answer": "C" },
+    { "id": 80, "question": "Select the antonym of 'big'.", "options": { "A": "large", "B": "small", "C": "huge", "D": "gigantic" }, "answer": "B" },
+    { "id": 81, "question": "Which sentence is in the future tense?", "options": { "A": "She walked to school.", "B": "She is walking to school.", "C": "She will walk to school.", "D": "She walks to school." }, "answer": "C" },
+    { "id": 82, "question": "Choose the correct comparative form of 'good'.", "options": { "A": "gooder", "B": "more good", "C": "better", "D": "best" }, "answer": "C" },
+    { "id": 83, "question": "Identify the adverb in the sentence: 'He ran quickly to catch the bus.'", "options": { "A": "ran", "B": "quickly", "C": "catch", "D": "bus" }, "answer": "B" },
+    { "id": 84, "question": "Complete the sentence: 'She is very ____ in mathematics.'", "options": { "A": "interest", "B": "interesting", "C": "interested", "D": "interests" }, "answer": "C" },
+    { "id": 85, "question": "What is the correct contraction for 'do not'?", "options": { "A": "don't", "B": "does't", "C": "dont", "D": "do'nt" }, "answer": "A" },
+    { "id": 86, "question": "Fill in the blank: 'They ____ playing soccer right now.'", "options": { "A": "is", "B": "are", "C": "were", "D": "be" }, "answer": "B" },
+    { "id": 87, "question": "Which sentence uses correct punctuation?", "options": { "A": "Lets eat, grandma!", "B": "Let's eat grandma!", "C": "Let's eat, grandma!", "D": "Lets, eat, grandma!" }, "answer": "C" },
+    { "id": 88, "question": "What is the past participle of 'write'?", "options": { "A": "wrote", "B": "written", "C": "writing", "D": "writed" }, "answer": "B" },
+    { "id": 89, "question": "Choose the correct article: '____ university is a great place to study.'", "options": { "A": "A", "B": "An", "C": "The", "D": "No article" }, "answer": "B" },
+    { "id": 90, "question": "Select the synonym for 'difficult'.", "options": { "A": "easy", "B": "hard", "C": "simple", "D": "smooth" }, "answer": "B" },
+    { "id": 91, "question": "Which sentence is written in the passive voice?", "options": { "A": "The chef cooks the meal.", "B": "The meal is cooked by the chef.", "C": "The chef is cooking the meal.", "D": "The meal cooks itself." }, "answer": "B" },
+    { "id": 92, "question": "Fill in the blank: 'I have been living in this city ____ 2010.'", "options": { "A": "for", "B": "since", "C": "during", "D": "from" }, "answer": "B" },
+    { "id": 93, "question": "Which of the following is an interjection?", "options": { "A": "quickly", "B": "oh", "C": "run", "D": "blue" }, "answer": "B" },
+    { "id": 94, "question": "Choose the correct sentence:", "options": { "A": "There going to the park.", "B": "They're going to the park.", "C": "Their going to the park.", "D": "Thier going to the park." }, "answer": "B" },
+    { "id": 95, "question": "Select the best word to complete: 'He is known for his ____ behavior.'", "options": { "A": "rude", "B": "rudely", "C": "rudeness", "D": "rudity" }, "answer": "C" },
+    { "id": 96, "question": "What is the plural form of 'mouse'?", "options": { "A": "mouses", "B": "mice", "C": "mouse", "D": "mices" }, "answer": "B" },
+    { "id": 97, "question": "Choose the correct possessive form: 'This is ____ car.'", "options": { "A": "John", "B": "Johns", "C": "John's", "D": "Johns'" }, "answer": "C" },
+    { "id": 98, "question": "Which word is a verb in the sentence: 'The dog barks loudly.'", "options": { "A": "dog", "B": "barks", "C": "loudly", "D": "the" }, "answer": "B" },
+    { "id": 99, "question": "Select the correct preposition: 'He arrived ____ the airport on time.'", "options": { "A": "at", "B": "in", "C": "on", "D": "to" }, "answer": "A" },
+    { "id": 100, "question": "Which sentence is correct?", "options": { "A": "I have less apples than you.", "B": "I have fewer apples than you.", "C": "I have little apples than you.", "D": "I have few apples than you." }, "answer": "B" }
+  ]
+  
